@@ -1,0 +1,29 @@
+[33mcommit d6fcf12274f22d553e9a46195a8da87284b12a39[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: sahilgupta3 <sahildiet@gmail.com>
+Date:   Sat Jul 22 15:51:15 2023 +0200
+
+    removed unwanted commits v1
+
+[33mcommit f69b9e683d343e6b3b899a7005d8d73639419144[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: sahilgupta3 <sahildiet@gmail.com>
+Date:   Sat Jul 22 15:47:03 2023 +0200
+
+    remove unwanted commits
+
+[33mcommit 5649f31efac7527099a6fca465b5d3e6e3ff7448[m
+Author: sahilgupta3 <sahildiet@gmail.com>
+Date:   Sat Jul 22 13:54:31 2023 +0200
+
+    corrected mongodb URL
+
+[33mcommit a254364983bc994a9fe7488b14b10a5074e2b38c[m
+Author: sahilgupta3 <sahildiet@gmail.com>
+Date:   Sat Jul 22 13:31:33 2023 +0200
+
+    modify dbn images in k8 yaml
+
+[33mcommit 084d1765eb593e28f2b5eade743fe291a68f11c8[m
+Author: sahilgupta3 <sahildiet@gmail.com>
+Date:   Sat Jul 22 12:45:35 2023 +0200
+
+    first commit
